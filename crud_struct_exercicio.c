@@ -1,20 +1,3 @@
-/*
-Crie uma aplicação que permita realizar operações CRUD em uma entidade "Produto". A struct Produto deve conter os seguintes campos:
-
-ID: identificador único do produto
-Nome: nome do produto
-Preço: preço do produto
-Quantidade: quantidade em estoque do produto
-
-O programa deve permitir as seguintes operações:
-
-Criação de um novo produto, solicitando ao usuário os dados necessários.
-Leitura de um produto, exibindo na tela todos os campos do produto com base no ID informado pelo usuário.
-Atualização de um produto, permitindo que o usuário altere qualquer campo do produto com base no ID informado.
-Exclusão de um produto, removendo-o da lista com base no ID informado.
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
